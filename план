@@ -1,0 +1,19 @@
+Задача - сделать space invaders
+1. imp. pygame
+2. class Game
+   - screen ✅
+   - player
+   - levels
+   - current level
+
+3. class Player
+
+4. class Enemy
+
+5. class Bullet
+
+6. class Level
+
+7. class MovingObject ✅
+   - image
+   -
